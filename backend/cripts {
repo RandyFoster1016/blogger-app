@@ -1,0 +1,15 @@
+ id |      title      |                 image                 |          post           |  category  
+----+-----------------+---------------------------------------+-------------------------+------------
+    | Hey new title   | uploads/1738170669628.317-203x300.jpg | <p>Brand New BLOG</p>   | Politics
+    | Second TITLE    | uploads/1738170756951.263-205x300.jpg | <p>Second BLOG</p>      | Travel
+    | TITLE 3         | uploads/1738180875816.263-205x300.jpg | <p>BLOGS</p>            | Technology
+    | Title           |                                       | <p>New Blog</p>         | Technology
+    | Big TITLE       | uploads/1738200164935.392-202x300.jpg | <p>BLOG AFTER BLOGS</p> | Technology
+    | title  #1       | uploads/1738200610662.384-202x300.jpg | <p>More blogs</p>       | Politics
+    | Hey a title     | uploads/1738258272413.641-206x300.jpg | <p>BLOGS</p>            | Nature
+    | blog title      | uploads/1738336419815.165-205x300.jpg | <p>First blog</p>       | Nature
+    | TITLE 1         | uploads/1738418435004.478-202x300.jpg | <p>First BLOG</p>       | Politics
+    | Brand new TITLE | uploads/1738772496043.165-205x300.jpg | <p>BLOGS</p>            | Politics
+    | Title 32        | uploads/1738774181693.641-206x300.jpg | <p>BLOGS 22</p>         | Nature
+(11 rows)
+
