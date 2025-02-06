@@ -1,1 +1,1 @@
-https://randyfoster1016.github.io/blogger_app/"
+https://blogger-app-sooty.vercel.app/
