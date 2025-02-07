@@ -20,6 +20,7 @@ const storage = multer.diskStorage({
 const upload = multer({ storage: storage })
 
 app.get('/', (req, res) => {
+  res.json({"message":'Hello World 123!'})
 });
 
 app.get('/blog/:cat',async (req, res) => {
